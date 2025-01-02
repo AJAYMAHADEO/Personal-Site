@@ -1,0 +1,20 @@
+.first-text{
+  font-size: 50px; 
+  font-family: Fira Code;
+  margin-bottom: 0px; 
+}
+
+.second-text{
+  font-size: 20px; 
+  font-family: Fira Code;
+  margin-top: 15px;
+  margin-bottom: 0px;
+}
+
+.third-text{
+  width: 700px;
+  font-size: 20px; 
+  font-family: Fira Code; 
+  margin-top: 15px;
+}
+
